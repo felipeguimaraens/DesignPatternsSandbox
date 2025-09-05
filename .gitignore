@@ -1,3 +1,8 @@
+# VS Studio
+.vs
+*.vcxproj.user
+/DesignPatterns
+
 # Prerequisites
 *.d
 
